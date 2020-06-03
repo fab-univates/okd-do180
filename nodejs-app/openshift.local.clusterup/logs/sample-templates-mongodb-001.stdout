@@ -1,0 +1,28 @@
+total 96K
+drwxr-xr-x   1 root root 4.0K Jun  3 13:10 .
+drwxr-xr-x   1 root root 4.0K Jun  3 13:10 ..
+-rwxr-xr-x   1 root root    0 Jun  3 13:10 .dockerenv
+-rw-r--r--   1 root root  12K May  4 15:37 anaconda-post.log
+-rwxr-xr-x   1 root root  182 Jan  1  1970 apply.sh
+lrwxrwxrwx   1 root root    7 May  4 15:35 bin -> usr/bin
+drwxr-xr-x  12 root root 3.7K Jun  3 13:10 dev
+drwxr-xr-x   1 root root 4.0K Jun  3 13:10 etc
+drwxr-xr-x   2 root root 4.0K Apr 11  2018 home
+-rw-r--r--   1 root root 5.6K Jan  1  1970 kubeconfig.kubeconfig
+lrwxrwxrwx   1 root root    7 May  4 15:35 lib -> usr/lib
+lrwxrwxrwx   1 root root    9 May  4 15:35 lib64 -> usr/lib64
+-rw-r--r--   1 root root  13K Jan  1  1970 list.yaml
+drwxr-xr-x   2 root root 4.0K Apr 11  2018 media
+drwxr-xr-x   2 root root 4.0K Apr 11  2018 mnt
+-rw-r--r--   1 root root    9 Jan  1  1970 namespace-file
+drwxr-xr-x   2 root root 4.0K Apr 11  2018 opt
+dr-xr-xr-x 227 root root    0 Jun  3 13:04 proc
+dr-xr-x---   1 root root 4.0K May 22 00:47 root
+drwxr-xr-x   1 root root 4.0K May 22 01:08 run
+lrwxrwxrwx   1 root root    8 May  4 15:35 sbin -> usr/sbin
+drwxr-xr-x   2 root root 4.0K Apr 11  2018 srv
+dr-xr-xr-x  13 root root    0 Jun  3 13:04 sys
+drwxrwxrwt   1 root root 4.0K May 22 01:08 tmp
+drwxr-xr-x   1 root root 4.0K May  4 15:35 usr
+drwxr-xr-x   1 root root 4.0K May  4 15:36 var
+template.template.openshift.io/mongodb-persistent created
